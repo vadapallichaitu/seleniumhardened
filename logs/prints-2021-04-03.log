@@ -1,0 +1,9 @@
+15:03:28.185 [main] INFO  syklone.tundra.Base - browser closed
+15:04:45.375 [main] INFO  syklone.tundra.Base - Chrome
+15:04:56.415 [main] INFO  syklone.tundra.Base - Chrome
+15:05:07.623 [main] INFO  syklone.tundra.Base - getting title
+15:05:13.083 [main] ERROR syklone.tundra.Base - mismatched
+15:05:15.837 [main] INFO  syklone.tundra.Base - browser closed
+15:10:20.476 [main] INFO  syklone.tundra.Base - Chrome
+15:10:32.268 [main] INFO  syklone.tundra.Base - Chrome
+15:10:45.246 [main] INFO  syklone.tundra.Base - getting title

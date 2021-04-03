@@ -1,0 +1,9 @@
+21:11:32.776 [main] INFO  syklone.tundra.Base - browser closed
+21:12:38.797 [main] INFO  syklone.tundra.Base - Chrome
+21:12:57.192 [main] INFO  syklone.tundra.Base - Chrome
+21:13:24.553 [main] ERROR syklone.tundra.Base - mismatched
+21:13:27.154 [main] INFO  syklone.tundra.Base - browser closed
+15:41:49.804 [main] INFO  syklone.tundra.Base - Chrome
+15:42:20.695 [main] INFO  syklone.tundra.Base - Chrome
+15:42:38.702 [main] ERROR syklone.tundra.Base - mismatched
+15:42:40.953 [main] INFO  syklone.tundra.Base - browser closed
