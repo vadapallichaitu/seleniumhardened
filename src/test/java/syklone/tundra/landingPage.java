@@ -10,7 +10,8 @@ import org.openqa.selenium.Keys;
 import org.openqa.selenium.WebDriver;
 import org.testng.annotations.Test;
 
-import pageObjects.landingpage;
+import pageObjects.homepage;
+import pageObjects.landingpage; 
 
 public class landingPage extends Base {
 	private static Logger log =LogManager.getLogger(Base.class.getName());
